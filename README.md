@@ -1,6 +1,3 @@
-# steganography-scripts
-Simple LSB steganography encode/decode scripts (Python/Pillow)
-
 # Steganography Scripts (LSB)  
 
 Simple LSB steganography tools to **encode** a text message into an image and **decode** it back.
