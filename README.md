@@ -19,3 +19,5 @@ Simple LSB steganography tools to **encode** a text message into an image and **
 ## Install (one-time, on your machine)
 ```bash
 python3 -m pip install --user Pillow
+
+## Example
